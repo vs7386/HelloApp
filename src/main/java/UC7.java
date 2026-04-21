@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class UC7 {
+public class UC7{
     public static void main(String[] args) {
         String greeting;
         if (args.length > 0) {
